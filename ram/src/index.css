@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(130, 65, 168);
+}
+
+
+
+textarea{
+  background-color:bisque;
+  height:300px;
+  width:300px;
+column-gap: 40px;
+margin:auto;
+position: relative;
+left: 300px;
+top:150px;
+
+
+}
